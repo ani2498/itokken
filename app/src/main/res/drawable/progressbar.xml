@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<scale xmlns:android="http://schemas.android.com/apk/res/android"
+    android:pivotX="50%" android:pivotY="50%"
+  android:scaleGravity="center"
+
+    android:scaleHeight="40%"
+    android:scaleWidth="40%"
+
+    >
+
+    <bitmap android:src="@drawable/load10"/>
+</scale>

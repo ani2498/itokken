@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">iTokken</string>
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Online and Offline!</string>
+    <string name="slide_1_desc">Special offers and promotional deals for both online and in-store across india.</string>
+
+    <string name="slide_2_title">Best Place</string>
+    <string name="slide_2_desc">We grab the hottest deals in town and make them better by helping you search and find the right things at the right price at the right time.
+There’s value here for everyone. Sign Up for FREE today!</string>
+
+    <string name="slide_3_title">Exciting Offers and Deals</string>
+    <string name="slide_3_desc">Shop with us to get amazing offers and exciting deals on your favourite products.</string>
+
+    <string name="slide_4_title">Tours and Travel</string>
+    <string name="slide_4_desc">Travel around the world at exciting price with our tour packages.</string>
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+</resources>
