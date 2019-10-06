@@ -79,7 +79,8 @@ public class iTOkkenMain extends AppCompatActivity implements View.OnClickListen
         bar=(ProgressBar) findViewById(R.id.progressBar2);
         webView.setWebViewClient(new myWebclient());
         webView.getSettings().setJavaScriptEnabled(true);
-
+        String newUA= "Chrome/43.0.2357.65 ";
+        webView.getSettings().setUserAgentString(newUA);
         webView.loadUrl("http://www.itokken.com");
 
         webUrl=webView.getUrl();
